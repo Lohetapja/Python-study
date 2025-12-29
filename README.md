@@ -2,7 +2,7 @@
 
 This repository contains small Python scripts and experiments created in 2023
 while learning Python fundamentals through online tutorials (primarily YouTube,
-e.g. Bro Code) and personal experimentation.
+e.g. Bridge Code) and personal experimentation.
 
 Purpose:
 - Learn Python syntax and core concepts
